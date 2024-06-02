@@ -1,4 +1,4 @@
-**Repository Name:** FakeNewsDetector
+**FakeNewsDetector** 
 
 **Description:**
 This repository contains an IPython Notebook file (FakeNewsDetection.ipynb) aimed at detecting fake news using three different models: Naive Bayes, LSTM, and Bi-LSTM. The notebook utilizes two datasets, namely `True.csv` and `Fake.csv`, each containing news articles labeled as either true or fake. These datasets are imported separately and combined into a unified dataset named `dataset`. 
